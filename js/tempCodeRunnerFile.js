@@ -1,0 +1,1 @@
+const videosWrapper = document.querySelector('.videos__wrapper');
